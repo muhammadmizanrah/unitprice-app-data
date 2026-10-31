@@ -1,8 +1,8 @@
 {
-    "version": 5,
-    "sha256": "a3a24b370b6ed28cb54188d500dc80b526437f4c28f6fd9d8f4fb191b462e366",
-    "signature": "ed25519:MX8WgAD6s1Vun1Aq6mqJZRolu/BSavzCisVEqesv2BAXDbBjbftVNjjeyqfqw50ZnBo82JZAzJBdnEoag8M7CQ==",
-    "bytes": 401,
-    "published_at": "2026-10-31T15:13:40+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/unitprice-app-data@293e43e/unitprice/v5.json"
+    "version": 6,
+    "sha256": "f8e8af4eb1215e7c5105193a9cf4957f86a9fa2db0c0bfb91f05a856bca0b7bf",
+    "signature": "ed25519:1tSS7Ml2hYurXVUWurPgbk+rOAe3gFWRD1xEizqR1kh0XImVJ9R2KXh4fpUlelrwqn2OmvrGwNu/Tm384v+ZBQ==",
+    "bytes": 1172,
+    "published_at": "2026-10-31T15:34:52+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/unitprice-app-data@f0eb965/unitprice/v6.json"
 }
