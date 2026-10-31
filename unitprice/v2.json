@@ -1,0 +1,17 @@
+{
+    "schema": 1,
+    "type": "unitprice_config",
+    "app": "unitprice",
+    "version": 2,
+    "generated_at": "2026-10-31T14:18:24+00:00",
+    "config": {
+        "min_android_build": 0,
+        "min_ios_build": 0,
+        "maintenance": false,
+        "notice_enabled": true,
+        "promo_enabled": false,
+        "rating_enabled": true,
+        "notice_id": "setup-test",
+        "notice_en": "Panel test: this notice came from your dashboard."
+    }
+}
