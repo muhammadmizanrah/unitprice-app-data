@@ -1,0 +1,17 @@
+{
+    "schema": 1,
+    "type": "unitprice_config",
+    "app": "unitprice",
+    "version": 3,
+    "generated_at": "2026-10-31T14:21:36+00:00",
+    "config": {
+        "min_android_build": 0,
+        "min_ios_build": 0,
+        "maintenance": false,
+        "notice_enabled": false,
+        "promo_enabled": false,
+        "rating_enabled": true,
+        "notice_id": "",
+        "notice_en": ""
+    }
+}
